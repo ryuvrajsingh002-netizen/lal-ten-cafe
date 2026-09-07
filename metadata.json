@@ -1,0 +1,6 @@
+{
+  "name": "Lal Ten Cafe | Coffee, Food & Great Moments",
+  "description": "Visit Lal Ten Cafe for freshly brewed coffee, delicious food, cozy vibes and unforgettable moments. Explore our menu, order online or book your table.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
